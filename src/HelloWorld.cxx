@@ -22,4 +22,5 @@ int main(int argc, char* argv[]) {
 
   world.hello_world();
   world.hello_denmark();
+  world.hello_sweeden();
 }
