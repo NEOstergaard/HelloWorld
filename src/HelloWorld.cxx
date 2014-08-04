@@ -11,6 +11,10 @@ public:
     std::cout << "Hello Denmark." << std::endl;
   }
 
+  void hello_sweeden(void) {
+    std::cout << "Hello Sweeden." << std::endl;
+  }
+
 };
 
 int main(int argc, char* argv[]) {
