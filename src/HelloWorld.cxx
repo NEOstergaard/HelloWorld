@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Main class
 class HelloWorld {
 public:
 
