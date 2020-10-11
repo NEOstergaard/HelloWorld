@@ -17,6 +17,7 @@ public:
 
 };
 
+// Start the program
 int main(int argc, char* argv[]) {
   HelloWorld world;
 
