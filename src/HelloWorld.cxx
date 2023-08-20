@@ -13,7 +13,7 @@ public:
   }
 
   void hello_sweeden(void) {
-    std::cout << "Hello Sweeden." << std::endl;
+    std::cout << "Hello Sweeden. Just got home from a trip to Sweeden." << std::endl;
   }
 
 };
